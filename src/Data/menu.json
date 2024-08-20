@@ -1,0 +1,110 @@
+[
+    {
+      "id": 0,
+      "name": "Pasta ai gamberi",
+      "image": "/assets/images/pasta-gamberi.jpg",
+      "price": "14.99",
+      "description": "Pasta con gamberetti e pomodorini freschi.",
+      "comments": [
+        {
+          "id": 0,
+          "rating": 5,
+          "comment": "Wow! Squisita!",
+          "author": "Alessandro Borghese",
+          "date": "2022-10-16T17:57:28.556094Z"
+        },
+        {
+          "id": 1,
+          "rating": 5,
+          "comment": "Fantastica.",
+          "author": "Carlo Cracco",
+          "date": "2022-10-16T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Pasta al pesto",
+      "image": "/assets/images/pasta-pesto.jpg",
+      "price": "10.99",
+      "description": "Pastta al pesto e pomodorini.",
+      "comments": [
+        {
+          "id": 0,
+          "rating": 4,
+          "comment": "Ottima... anche se la ricetta originale non è piccante!",
+          "author": "Alessandro Borghese",
+          "date": "2022-10-16T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Pasta con la rucola",
+      "image": "/assets/images/pasta-rucola.jpg",
+      "price": "9.99",
+      "description": "Pasta fresca con la rucola",
+      "comments": [
+        {
+          "id": 0,
+          "rating": 5,
+          "comment": "Tanto formaggio! Bene!",
+          "author": "Alessandro Borghese",
+          "date": "2022-10-16T17:57:28.556094Z"
+        },
+        {
+          "id": 1,
+          "rating": 5,
+          "comment": "Cremosa e saporita, l'adoro.",
+          "author": "Carlo Cracco",
+          "date": "2022-10-16T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Pasta al salmone",
+      "image": "/assets/images/pasta-salmone.jpg",
+      "price": "15.99",
+      "description": "Pasta al salmone fresco.",
+      "comments": [
+        {
+          "id": 0,
+          "rating": 1,
+          "comment": "Qualcuno chiami un medico, sto avendo un attacco di cuore!!",
+          "author": "Alessandro Borghese",
+          "date": "2022-10-16T17:57:28.556094Z"
+        },
+        {
+          "id": 1,
+          "rating": 2,
+          "comment": "Un po' troppo unta!",
+          "author": "Carlo Cracco",
+          "date": "2022-10-16T17:57:28.556094Z"
+        },
+        {
+          "id": 2,
+          "rating": 5,
+          "comment": "Ne voglio ancora!",
+          "author": "Stefano Casasola",
+          "date": "2022-10-16T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "pasta speciale",
+      "image": "/assets/images/pasta-special.jpg",
+      "price": "12.99",
+      "description": "Pasta con sugo a base di formaggio fresco e  pesce",
+      "comments": [
+        {
+          "id": 0,
+          "rating": 5,
+          "comment": "Uno dei migliori spaghetti allo scoglio!",
+          "author": "Alessandro Borghese",
+          "date": "2022-10-16T17:57:28.556094Z"
+        }
+      ]
+    }
+  ]

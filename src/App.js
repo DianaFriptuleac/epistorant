@@ -4,6 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css' //devo includere in app.js il file
 //bootstrap.min.css- css di bootstrap piu leggero e compatto.
 import './App.css'; //il mio css e meglio importarlo dopo bootstrap
 import CustomNavbar from './components/CustomNavbar';
+import Home from './components/Home';
 
 function App() {
   return (
@@ -13,9 +14,7 @@ function App() {
    <CustomNavbar/>
     </header>
     <main>
-    <h1 className='text-center mt-5'>
-    Epistorante
-    </h1>
+   <Home/>
     </main>
     </div>
   );
